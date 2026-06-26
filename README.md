@@ -38,4 +38,4 @@ power bi desktop
 
 ## video
 
-10 minute walkthrough:
+10 minute walkthrough: https://yearuptemp-my.sharepoint.com/:v:/g/personal/dsharma_yearup_org/IQAX0iTL838URLvCvUp88cqHAXhPc_pQBMaYvAi5ocxm4Nc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vannAI
